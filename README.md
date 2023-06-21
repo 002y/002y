@@ -8,5 +8,5 @@
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=002y&layout=compact)](https://github.com/002y)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
