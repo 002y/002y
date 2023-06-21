@@ -5,7 +5,7 @@
 - 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=002y&show_icons=true&theme=dark" alt="Anurag's GitHub stats" height="160px" />
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=002y&layout=compact)](https://github.com/002y)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=002y&layout=compact&theme=dark)](https://github.com/002y)
 
 
 <img align="center" alt="python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
