@@ -20,3 +20,4 @@
   <img align="center" alt="JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/GMM12PBOZ1BmMgJGFz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-xbox-series-x-dead-cells-rise-of-the-giant-GMM12PBOZ1BmMgJGFz">via GIPHY</a></p>
